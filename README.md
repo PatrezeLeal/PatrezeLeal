@@ -12,6 +12,8 @@ Olá! Eu sou o Patreze Leal👋
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrezeLeal&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
+ 
+  
   ##
   
   <div>
@@ -21,7 +23,9 @@ Olá! Eu sou o Patreze Leal👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   
 
-     ##
+     
+    
+    ##
   
   <div> 
  <a href="https://www.instagram.com/lealpatreze/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
