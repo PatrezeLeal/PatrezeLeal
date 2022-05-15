@@ -16,6 +16,8 @@ Olá! Eu sou o Patreze Leal👋
   
   ##
   
+  ### conhecimento em:
+  
   <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/>
@@ -23,7 +25,9 @@ Olá! Eu sou o Patreze Leal👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   
     
-   ##
+   ###
+    
+    
   
   <div> 
  <a href="https://www.instagram.com/lealpatreze/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
