@@ -10,6 +10,8 @@ Olá! Eu sou o Patreze Leal👋
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrezeLeal&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
+  
+  
   <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/>
