@@ -2,6 +2,7 @@ Olá! Eu sou o Patreze Leal👋
 - 
 - 🌱 eu estou estudando programação em java,figma,mysql.
 - 💬 contate-me atraves do email patrezeleal@gmail.com
+- 😄 Pronomes: ele / dele
 
 <div align="center">
   <a href="https://github.com/"PatrezeLeal>
